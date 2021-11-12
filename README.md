@@ -27,3 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 "# RandomPickerTodoList" 
 "This application is made with Angular "
+![image](https://user-images.githubusercontent.com/26905458/141530730-ba825603-5bc4-40bf-a117-397fe44284e6.png)
