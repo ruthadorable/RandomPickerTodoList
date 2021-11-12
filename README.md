@@ -1,8 +1,8 @@
 Try my app!!
 In a visual studio terminal copy paste:
-git clone repository 
-cd repository
-ng serve
+"git clone repository" 
+"cd repository"
+"ng serve"
 
 "# RandomPickerTodoList" 
 "This application is made with Angular "
