@@ -1,7 +1,7 @@
 Try my app!!
 In a visual studio terminal copy paste:
-"git clone repository" 
-"cd repository"
+"git clone https://github.com/ruthadorable/RandomPickerTodoList.git" 
+"cd RandomPickerTodoList"
 "ng serve"
 
 "# RandomPickerTodoList" 
