@@ -260,15 +260,10 @@
     left: -230px;
     z-index: -10;
     width: 1920px;
-  }
-
-.title{
-      height: 85px;
-      text-align: center;
-  }
-  p{
-      margin: 10px;
-  }
-  button{
-    margin-left: 5px;
-  }
+}
+.navbar{
+    background-color: #e76f6f;
+    color:#e6ebf1;
+    text-align-last: center;
+    height: 85px;
+}
